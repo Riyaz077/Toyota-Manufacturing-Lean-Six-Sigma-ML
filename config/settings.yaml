@@ -1,0 +1,8 @@
+project:
+  random_state: 42
+data:
+  demo_path: data/generated/manufacturing_demo.csv
+model:
+  test_size: 0.25
+process:
+  vibration_alert_mm_s: 7.5
